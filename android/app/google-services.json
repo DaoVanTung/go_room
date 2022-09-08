@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354778244005",
+    "project_id": "goroomhumg",
+    "storage_bucket": "goroomhumg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354778244005:android:3c5f15155c65c211947e4c",
+        "android_client_info": {
+          "package_name": "com.tungdv.goroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354778244005-v7ms5iuemj6hhvb0suohskv93ao987v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5N4COsG49QzifExnsO0RDrpQVknoA6xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354778244005-v7ms5iuemj6hhvb0suohskv93ao987v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
