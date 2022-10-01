@@ -1,6 +1,6 @@
 # go_room
 
-A new Flutter project.
+Link github: https://github.com/DaoVanTung/go_room
 
 ## Getting Started
 
